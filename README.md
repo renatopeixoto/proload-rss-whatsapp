@@ -25,3 +25,5 @@ OBS: Não esquecer de criar a SESSION_ID conforme com o mesmo valor de WHATSAPP_
 de tarefas servidor para isso <https://laravel.com/docs/9.x/scheduling>
 
 A fila esta configurada como "sync", já esta preparado para usar o "redis".
+
+Caso não tenha um abiente configurado pode utilizar o Laravel Sail <https://laravel.com/docs/9.x/sail>
