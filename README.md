@@ -21,9 +21,9 @@ OBS: Deve efeturar o cadastro
 Então, o sistema preparar e enviar mensagens via WhatsApp para os telefones dos **destinatários** usando o projeto:
 https://github.com/ookamiiixd/baileys-api
 
-OBS: Não esquecer de criar a SESSION_ID conforme com o mesmo valor de WHATSAPP_SERVICE_SESSION_ID e confirar o agemdamento 
+OBS: Não esquecer de criar a SESSION_ID conforme com o mesmo valor de WHATSAPP_SERVICE_SESSION_ID e confirar o agendamento 
 de tarefas servidor para isso <https://laravel.com/docs/9.x/scheduling>
 
 A fila esta configurada como "sync", já esta preparado para usar o "redis".
 
-Caso não tenha um abiente configurado pode utilizar o Laravel Sail <https://laravel.com/docs/9.x/sail>
+Caso não tenha um ambiente configurado pode utilizar o Laravel Sail <https://laravel.com/docs/9.x/sail>
